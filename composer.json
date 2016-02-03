@@ -1,0 +1,13 @@
+{
+    "name": "xdan/range2dslider",
+    "description": "Json 2d slider",
+    "type": "Library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Chupurnov",
+            "email": "chupurnov@gmail.com"
+        }
+    ]
+}
